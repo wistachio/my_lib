@@ -4,7 +4,7 @@ import lib.filelib as fl
 
 
 
-default = r"/media/veracrypt1/python/settings.ini"
+default = r"/python/settings.ini"
 
 class Settings(configparser.ConfigParser):
     '''
